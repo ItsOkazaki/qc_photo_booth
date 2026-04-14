@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Code Photo Booth",
+  "description": "Smart Hand Tracking Photo Booth for Quantum Code Club. Features air drawing, gesture controls, and scientific filters.",
+  "requestFramePermissions": ["camera"]
+}
